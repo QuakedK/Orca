@@ -1,6 +1,6 @@
 # Unsupported or disabled features of Orca
 
-**Orca V3**
+**[Orca V3](https://github.com/QuakedK/Orca/releases/download/Deleter/Orca-V3.bat)**
 1. Edge update tasks.
 2. Onedrive Tasks.
 3. UpdateOrchestrator tasks.
@@ -8,7 +8,7 @@
 5. Mircosoft Edge Delete.
 6. Then [Oneclick Changelog](https://github.com/QuakedK/Oneclick/blob/main/Unsupported%20Features.md)
 
-**OrcaLIte V2**
+**[OrcaLIte V2](https://github.com/QuakedK/Orca/releases/download/Deleter/Orca-Lite-V2.bat)**
 1. Edge update tasks.
 2. Onedrive Tasks.
 3. UpdateOrchestrator tasks.
