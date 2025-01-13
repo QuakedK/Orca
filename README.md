@@ -1,5 +1,5 @@
 # Orca
-Orca: The Oneclick Continuer. 😎 
+Orca: The Update Orchestrator Deleter. 😎 
 
 Orca's previous goal was to debloat things Oneclick, couldn't do without elevated privileges.
 Now Orca is used to assist Oneclick by deleting Update Orchestrator task using NSudo.
