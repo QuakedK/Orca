@@ -1,6 +1,4 @@
 # Unsupported or disabled features of Orca
-**[Orca](https://github.com/QuakedK/Orca/releases/download/UpdateOrchestrator/Orca.bat)**
-1. Disables and deletes Update Orchestrator Task.
 
 **[Orca V4.0](https://github.com/QuakedK/Orca/releases/download/UpdateOrchestrator/Orca-V4.bat)**
 1. Disables and deletes Update Orchestrator Task.
