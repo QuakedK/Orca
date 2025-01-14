@@ -1,12 +1,16 @@
 # Orca
-Orca: The Update Orchestrator Deleter. 😎 
+Orca: The Update Orchestrator Deleter & Oneclick Re-enabler. 😎 
 
-Orca's previous goal was to debloat things Oneclick, couldn't do without elevated privileges.
-Now Orca is used to assist Oneclick by deleting Update Orchestrator task using NSudo.
+Orca's previous goal was to remove Update Orchestrator task, and MSO Core Worker with elevated privileges using NSudo.
+Now Ocra has become a multipurpose tool that still achieves it's orginal goal of deleting Orchestrator related things but also acts acts as a oneclick re-neabler. 
+As Oneclick re-neabler, Orca Re-disables services that may have gotten re-enabled after using Oneclick.
 
-1. [Orca](https://github.com/QuakedK/Orca/releases/download/UpdateOrchestrator/Orca.bat) is the same file used to assist Oneclick.
-2. [Orca V4.0](https://github.com/QuakedK/Orca/releases/download/UpdateOrchestrator/Orca-V4.bat) Is used as a Oneclick continuer, by redisabling previously disabled tasks and services.
-3. [Orca Lite V3.0](https://github.com/QuakedK/Orca/releases/download/UpdateOrchestrator/Orca-Lite-V3.bat) is also a Oneclick continuer, but only redisables task.
+**Orca Use Cases**:
+If you feel like your system has become slower or bloated after some time since running OneClick, we recommend using Orca instead of re-running OneClick.
+[Orca V4.0](https://github.com/QuakedK/Orca/releases/download/UpdateOrchestrator/Orca-V4.bat) will re-disable and delete bloatware and unnecessary services!
+
+**Orca Lite Use Case**:
+If you ran Oneclick and Process Destroyer, we recommend only running [Orca Lite V3.0](https://github.com/QuakedK/Orca/releases/download/UpdateOrchestrator/Orca-Lite-V3.bat) not Orca.
 
 Please run Orca with [Nsudo](https://github.com/M2TeamArchived/NSudo/releases/download/9.0-Preview1/NSudo_9.0_Preview1_9.0.2676.0.zip)
 
