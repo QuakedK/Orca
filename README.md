@@ -16,3 +16,4 @@ Please run Orca with [Nsudo](https://github.com/M2TeamArchived/NSudo/releases/do
 
 Join the [Discord!](https://discord.gg/B8EmFVkdFU)
 
+![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Orca/total)
